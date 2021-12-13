@@ -1,1 +1,4 @@
-# URL-Shortening-
+
+Design and implement a URL Shortening Service. You may use the programming language of your choosing. Your complete solution should include a diagram outlining how different components of the system interact. It should also include a docker-compose.yml file that can be used to test your solution. The service itself must expose HTTP endpoints to carry out its expected operations. You should not include a front end to your solution. The API and supporting infrastructure is what will be reviewed.
+
+This service must be capable of handling immense scale for both creation of new shortened URLs, as well as performing the redirects themselves. You may use any technology available to you in order to carry out this task; but, the service itself must be written by you. You can assume that a shortened URL is immutable.
